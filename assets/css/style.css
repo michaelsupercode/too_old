@@ -14,11 +14,10 @@ header {
 body {
     display: grid;
     justify-content: center;
-    min-height: 70vh;
   }
   
     main {
-      width: 80vw;
+      width: 50em;
       padding: 8em;
     }
     
